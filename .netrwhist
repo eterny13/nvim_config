@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='controllers'
+let g:netrw_dirhist_2='/home/user/haskell_codes'
+let g:netrw_dirhist_3='/home/user/nim_project'
