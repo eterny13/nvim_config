@@ -7,6 +7,9 @@ $ sh ./installer.sh ~/.cache/dein
 ```
 
 ### nvim初期設定
-nvimを開き、以下のコマンドを入力
-   * call dein#install()
-   * UpdateRemotePlugins
+nvimを開き、ノーマルモードで `':'`を入力してから以下のコマンドを入力
+
+```
+call dein#install()
+UpdateRemotePlugins
+```
