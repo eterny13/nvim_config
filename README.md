@@ -1,5 +1,12 @@
 # nvim_config
 
+### config ファイルを作成
+```
+mkdir -p ~/.config/nvim
+cd ~/.config/nvim
+git clone https://github.com/ekrecker/nvim_config.git
+```
+
 ### dein をインストール
 ```terminal:terminal
 $ curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
