@@ -21,3 +21,12 @@ nvimを開き、ノーマルモードで `':'`を入力してから以下のコ�
 call dein#install()
 UpdateRemotePlugins
 ```
+
+### エラーが出る場合
+```
+sudo apt install python3-pip
+pip3でpython3-neovimをインストールする場合は次のようにする。
+$ pip3 install neovim
+```
+
+python3.9をインストールすれば解決するか。。
