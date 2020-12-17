@@ -10,8 +10,8 @@ mv nvim_config/ nvim
 
 ### dein をインストール
 ```terminal:terminal
-$ curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
-$ sh ./installer.sh ~/.cache/dein
+curl https://raw.githubusercontent.com/Shougo/dein.vim/master/bin/installer.sh > installer.sh
+sh ./installer.sh ~/.cache/dein
 ```
 
 ### nvim初期設定
