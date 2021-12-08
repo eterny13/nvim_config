@@ -47,6 +47,8 @@ set expandtab
 set nowrap
 set mouse=a
 
+inoremap <silent> jj <ESC>
+
 nnoremap j gj
 nnoremap k gk
 nnoremap gj j
